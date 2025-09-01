@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Arsen745
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Привет! 👋 Меня зовут Арсен  
 
-<!---
-Arsen745/Arsen745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Я **Fullstack разработчик**. Здесь можно ознакомиться с моими проектами:  
+
+### 🚀 Проекты  
+
+- 🍰 **Кондитерский Дом Куликовский**  
+  👉 [kulikov.com](https://kulikov.com/)  
+
+- 🏛 **Министерство образования Кыргызской Республики**  
+  👉 [okuukitebi.edu.kg](https://okuukitebi.edu.kg/)  
+
+- 📚 **Издательский дом "Окуу китеби"**  
+  👉 [kitep.edu.kg](https://kitep.edu.kg/)  
